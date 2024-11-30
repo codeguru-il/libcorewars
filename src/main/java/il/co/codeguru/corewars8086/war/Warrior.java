@@ -21,7 +21,7 @@ public class Warrior {
      * @param core                  Real mode memory used as core.
      * @param loadAddress           Warrior's load address in the core (initial CS:IP).
      * @param initialStack          Warrior's private stack in the core (initial SS:SP).
-     * @param groupSharedMemory     Warrior group's shared memroy address (initial ES).
+     * @param groupSharedMemory     Warrior group's shared memory address (initial ES).
      * @param groupSharedMemorySize Warrior group's shared memory size.
      */
     public Warrior(
